@@ -46,7 +46,7 @@ Use Case Diagrams
 
 Use Case Diagrams help visualize interactions between users (actors) and the system. They show what actions different roles can perform and how the system responds.
 
-![alt text](alx-booking-uc.drawio.png)
+![alt text](alx-booking-uc.png)
 
  6. Define Acceptance Criteria
  Acceptance Criteria
